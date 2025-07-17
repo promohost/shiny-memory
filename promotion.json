@@ -1,0 +1,27 @@
+{
+    "games": [
+        {
+            "title": "Cool Game 1",
+            "image": "https://yourusername.github.io/game-promos/images/coolgame.jpg",
+            "url": "https://store.steampowered.com/app/123456",
+            "description": "A fun adventure!",
+            "tag": "latest"
+        },
+
+        {
+            "title": "Cool Game 2",
+            "image": "https://yourusername.github.io/game-promos/images/coolgame.jpg",
+            "url": "https://store.steampowered.com/app/123456",
+            "description": "A shopping game!",
+            "tag": "sale"
+        },
+
+        {
+            "title": "Cool Game 2",
+            "image": "https://yourusername.github.io/game-promos/images/coolgame.jpg",
+            "url": "https://store.steampowered.com/app/123456",
+            "description": "Hello World!",
+            "tag": "new release"
+        }
+    ]
+}
