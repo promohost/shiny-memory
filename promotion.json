@@ -1,27 +1,16 @@
 {
-    "games": [
-        {
-            "title": "Type Her to Sleep",
-            "image": "https://promohost.github.io/shiny-memory/image_source/thts_capsule.png",
-            "url": "https://store.steampowered.com/app/3714440/Type_Her_to_Sleep/",
-            "description": "a relaxing lo-fi typing game about typing to sleep.",
-            "tag": "latest"
-        },
-
-        {
-            "title": "Test 1",
-            "image": "https://promohost.github.io/shiny-memory/image_source/hoes.png",
-            "url": "https://store.steampowered.com/app/2273430/BlazBlue_Entropy_Effect/",
-            "description": "A fuckass rogueshit combat game.",
-            "tag": "sale"
-        },
-
-        {
-            "title": "Test 2",
-            "image": "https://promohost.github.io/shiny-memory/image_source/dr.png",
-            "url": "https://store.steampowered.com/app/3279910/Ascend_to_ZERO_Demo/",
-            "description": "Goated timestop game.",
-            "tag": "new release"
-        }
-    ]
+	"tags": {
+		"sale": "tag_sale",
+		"new": "tag_new_release"
+	},
+	
+	"games": [
+		{
+			"title": "Type Her to Sleep",
+			"image": "https://promohost.github.io/shiny-memory/image_source/thts_capsule.png",
+			"url": "https://store.steampowered.com/app/3714440/Type_Her_to_Sleep/",
+			"description": "a relaxing lo-fi typing game about typing to sleep.",
+			"tag": "new"
+		}
+	]
 }
