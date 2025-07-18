@@ -1,16 +1,17 @@
 {
-	"tags": {
-		"sale": "tag_sale",
-		"new": "tag_new_release"
-	},
+	"use_these_tags": [
+		"new_release",
+		"on_sale",
+		"regular"
+	],
 	
 	"games": [
 		{
 			"title": "Type Her to Sleep",
-			"image": "https://promohost.github.io/shiny-memory/image_source/thts_capsule.png",
-			"url": "https://store.steampowered.com/app/3714440/Type_Her_to_Sleep/",
 			"description": "a relaxing lo-fi typing game about typing to sleep.",
-			"tag": "new"
+			"tag": "new_release",
+			"url_capsule_image": "https://promohost.github.io/shiny-memory/image_source/thts_capsule.png",
+			"url_store_page": "https://store.steampowered.com/app/3714440?utm_source=kenney_jam_2025_game&utm_medium=game_itch_web&utm_campaign=game_jam&utm_content=cta_more_from_skilzent_screen"
 		}
 	]
 }
